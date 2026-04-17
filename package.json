@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "pinyin": "^4.0.0"
+  },
+  "type": "module"
+}
